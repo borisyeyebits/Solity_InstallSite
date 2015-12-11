@@ -1,0 +1,55 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+ 
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Nimbus Sans L", sans-serif;
+            text-align: center;
+        }
+        .iOSDevice, .otherDevice, .browser {
+            display: none;
+        }
+        #closeBeforeInstructions, #closeAfterInstructions {
+            display: none;
+        }
+        
+        h2 {
+            font-size: 40px;
+        }
+        
+        img {
+            width: 100%;
+            max-width: 400px;
+        }
+        .note {
+            font-size: small;
+            margin-top: 10px;
+        }
+        .documentation div {
+            margin-bottom: 4px;
+        }
+        .instruction {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        
+  position: relative;
+  min-height: 100%;
+}
+div{
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+}
+
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+
+@font-face {
+    font-family: "HelveticaNeue-Light";
+    src: url(fonts/kimberley.ttf) format("truetype");
+}
